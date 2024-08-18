@@ -1,6 +1,7 @@
 # Terraform Learning
 Certainly! Here are the course sections with their subtopics:
 
+
 ### Terraform Course Sections and Subtopics
 
 1. **Introduction**
